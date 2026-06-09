@@ -1,5 +1,7 @@
 # داده برای روایتگران 📊
 **علم داده و هوش مصنوعی برای همه!**
+
+
 <img width="640" height="481" alt="telegram-cloud-photo-size-4-5854896111242382784-x" src="https://github.com/user-attachments/assets/bf8b1d20-7797-485f-a439-ced6c7543496" />
 
 ---
